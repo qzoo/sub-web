@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://sub.oru.cc/sub?" }],
+        backendOptions: [{ value: "https://sub.188186.xyz/sub?" }],
         remoteConfig: [
           
           {
